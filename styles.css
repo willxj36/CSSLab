@@ -1,0 +1,7 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: lightgrey;
+}
+h2, p, a, .link {
+    text-align: center;
+}

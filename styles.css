@@ -38,3 +38,48 @@ span {
 #box4 {
     background: darksalmon;
 }
+.circles {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: deepskyblue;
+    position: absolute;
+    left: 70px;
+
+}
+h1 {
+    color: firebrick;
+}
+.original {
+    color: maroon;
+}
+.additional {
+    color: indigo;
+}
+#show1 {
+    color: midnightblue;
+}
+#show2 {
+    color: olivedrab;
+}
+#show3 {
+    color: orangered;
+}
+#show4 {
+    color: yellow;
+}
+#show5 {
+    color: teal;
+}
+ul {
+    color: saddlebrown;
+}
+.star {
+    color: seagreen;
+}
+#wars {
+    color: slateblue;
+}
+.lists {
+    border: 2px solid black;
+}

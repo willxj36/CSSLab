@@ -2,6 +2,39 @@ body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: lightgrey;
 }
-h2, p, a, .link {
+h2, p, .readme-wrapper {
     text-align: center;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    cursor: pointer;
+    font-weight: 700;
+    color: darkblue;
+}
+span {
+    color: darkgreen;
+    font-weight: 700;
+}
+.boxes {
+    margin: 1em 2em;
+    padding: .5em 1em;
+    border: .2em solid blue;
+    border-radius: 15px;
+    width: 30em;
+    display: block;
+}
+#box1 {
+    background: blueviolet;
+}
+#box2 {
+    background: coral;
+}
+#box3 {
+    background: darkgoldenrod;
+}
+#box4 {
+    background: darksalmon;
 }
